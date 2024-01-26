@@ -2,7 +2,7 @@
 
 <h2> 🔎 Sobre</h2>
 <p>Projeto individual para aprendizado de programação C# </p>
-<p>Precisa de ajuda para calcular? Use a calculadora básica via console!</p>
+<p>Precisa de ajuda para calcular básica? Use a calculadora básica via console!</p>
 
 ## 👨‍💻 Tecnologias
 <div>
